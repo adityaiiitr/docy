@@ -1,0 +1,3 @@
+https://excalidraw.com/ -- wireframing & sequence drawing
+
+pnpm install clsx tailwind-merge for util.ts
